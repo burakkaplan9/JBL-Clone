@@ -21,4 +21,4 @@
 
 ## GİF
 
-<img src="./images/JBL.gif>
+<img src="./images/JBL.gif"/>
